@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectNilaiSiswa</string>
+    <string name="hasil_input_nilai">HASIL INPUT NILAI</string>
+    <string name="nim">NIM :</string>
+    <string name="nama">NAMA :</string>
+    <string name="nilai">NILAI :</string>
+</resources>
